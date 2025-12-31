@@ -1,0 +1,25 @@
+(?# General)
+I can\'t reach that\!
+
+(?# Banking)
+You have correctly entered your PIN\.
+You have nothing to deposit\.
+
+(?# Chatting)
+Attempting to join chat\-channel\.
+Now talking in chat\-channel
+To talk\, start each line of chat with the \/ symbol\.
+
+(?# Raids)
+You leave the Tombs of Amascut\.
+You drink some of the tears\.
+You drink some of the potion\, reducing the energy cost of your special attacks\.
+
+(?# Sailing)
+The crystal extractor is now enabled\.
+The boat is already going as fast as it can\.
+You feel a gust of wind\.
+The wind dies down and your sails with it\.
+
+(?# Charges)
+^Your bonecrusher has ([0-9]{1,3}) charges left\.$
