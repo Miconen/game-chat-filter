@@ -15,6 +15,7 @@ Attempting to join chat\-channel\.
 Now talking in chat\-channel
 To talk\, start each line of chat with the \/ symbol\.
 To talk in your clan\'s channel\, start each line of chat with \/\/ or \/c\.
+You haven\'t recieved any messages to which you can reply\.
 
 (?# Raids)
 You leave the Tombs of Amascut\.
@@ -44,6 +45,11 @@ The coal bag can be filled only with coal\. You haven\'t got any\.
 The bag is empty\.
 You have nothing suitable for storing in the bag\.
 
+(?# Minigames)
+You cut a (.*?) into offcuts\.
+You feed your cormorant some fish offcuts as a reward\.
+You need to wait for your cormorant to return before trying to catch any more fish\.
+You send your cormorant to try to catch a fish from out at sea\.
 
 (?# Teleports)
 The Royal seed pod teleports you to the Grand Tree\.
