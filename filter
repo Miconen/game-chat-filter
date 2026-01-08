@@ -16,6 +16,7 @@ Now talking in chat\-channel
 To talk\, start each line of chat with the \/ symbol\.
 To talk in your clan\'s channel\, start each line of chat with \/\/ or \/c\.
 You haven\'t recieved any messages to which you can reply\.
+You have left the channel\.
 
 (?# Raids)
 You leave the Tombs of Amascut\.
@@ -45,6 +46,13 @@ The coal bag can be filled only with coal\. You haven\'t got any\.
 The bag is empty\.
 You have nothing suitable for storing in the bag\.
 
+(?# Potions & Food)
+You eat the Araxyte venom sack, It grants you immunity from venom\.
+Your venom restistance has worn off, but you are still resistant to poison\.
+
+(?# Statuses & Ailments)
+You have been poisoned by venom\!
+
 (?# Minigames)
 You cut a (.*?) into offcuts\.
 You feed your cormorant some fish offcuts as a reward\.
@@ -61,3 +69,5 @@ You deposit your items into the STASH unit\.
 (?# Spells)
 spellbook activated\.
 Your mind fills with knowledge\.
+Your Death Charge has faded away\.
+Some of your special attack energy has been restored\.
