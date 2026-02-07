@@ -45,6 +45,7 @@ The coal bag is empty\.
 The coal bag can be filled only with coal\. You haven\'t got any\.
 The bag is empty\.
 You have nothing suitable for storing in the bag\.
+Your Slayer ring has worn out\.
 
 (?# Potions & Food)
 You eat the Araxyte venom sack, It grants you immunity from venom\.
@@ -52,6 +53,7 @@ Your venom restistance has worn off, but you are still resistant to poison\.
 
 (?# Statuses & Ailments)
 You have been poisoned by venom\!
+You have been poisoned\!
 
 (?# Minigames)
 You cut a (.*?) into offcuts\.
