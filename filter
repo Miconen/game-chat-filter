@@ -2,6 +2,7 @@
 Welcome to Old School RuneScape\.
 I can\'t reach that\!
 You don\'t have enough inventory space to do that\.
+You don\'t have enough free inventory space to do that\.
 You have run out of prayer points, you can recharge at an altar\.
 
 (?# Banking)
@@ -90,3 +91,13 @@ Fear the shadow\!
 Umbra\, don\'t fail me\!
 Cruor\, don\'t fail me\!
 Glacies\, don\'t fail me\!
+
+(?# Tob)
+Wave\s+(.+)\s+\((.+)\)\s+complete!
+^(.+?)\s+has advanced to Wave\s+(\d+)\.
+Xarpus begins to stare intently\.
+Xarpus is staring in your direction and retaliates with a powerful attack\!
+The spell strikes to the heart of Verzik Vitur\'s shield\!
+Verzik Vitur is currently immune\!
+The power resonating here protects you from the blast\.
+Verzik Vitur saps your health and powers up\!
