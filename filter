@@ -1,9 +1,15 @@
 (?# General)
 Welcome to Old School RuneScape\.
 I can\'t reach that\!
+You don\'t have enough invetory space\.
 You don\'t have enough inventory space to do that\.
+You don\'t have enough inventory space to hold that item\.
 You don\'t have enough free inventory space to do that\.
 You have run out of prayer points, you can recharge at an altar\.
+
+(?# Pets)
+Your follower is already close enough\.
+You don\'t have enough inventory space to pick up your follower\.
 
 (?# Banking)
 You have correctly entered your PIN\.
@@ -51,6 +57,9 @@ Your Slayer ring has worn out\.
 (?# Potions & Food)
 You eat the Araxyte venom sack, It grants you immunity from venom\.
 Your venom restistance has worn off, but you are still resistant to poison\.
+Your chugging barrel has been filled with (\d+) doses? of (.+?)\((\d+)\)
+Deposited (\d+) doses? of (.+?)\((\d+)\)
+You must be near a bank to use that barrel\.
 
 (?# Statuses & Ailments)
 You have been poisoned by venom\!
@@ -74,6 +83,8 @@ spellbook activated\.
 Your mind fills with knowledge\.
 Your Death Charge has faded away\.
 Some of your special attack energy has been restored\.
+You resurrect a (.+?) thrall\.
+Your (.+?) thrall returns to the grave\.
 
 (?# Nex)
 AT LAST\!
@@ -91,6 +102,12 @@ Fear the shadow\!
 Umbra\, don\'t fail me\!
 Cruor\, don\'t fail me\!
 Glacies\, don\'t fail me\!
+
+(?# CoX)
+You have no suitable food for the creature\.
+The Great Olm\'s left claw clenches to protect itself temporarily\.
+The Great Olm is currently protecting its left claw\!
+The teleport attack has no effect\!
 
 (?# Tob)
 Wave\s+(.+)\s+\((.+)\)\s+complete!
