@@ -6,7 +6,7 @@ You don\'t have enough inventory space to do that\.
 You don\'t have enough inventory space to hold that item\.
 You don\'t have enough free inventory space to do that\.
 You have run out of prayer points, you can recharge at an altar\.
-Your inventory is too full to hold any more\
+Your inventory is too full to hold any more\.
 You don\'t have enough free space to do that\.
 You cannot trade that item\.
 
@@ -37,7 +37,7 @@ You drink some of the tears\.
 You drink some of the potion\, reducing the energy cost of your special attacks\.
 
 (?# Bloodwood Woodcutting)
-You weren't ready to chop\!
+You weren\'t ready to chop\!
 That tree has almost bled out\.
 You can\'t hold your axe back for that long\.
 You can\'t pull your axe back that far\!
@@ -119,7 +119,7 @@ Cruor\!
 Glacies\!
 Fill my soul with smoke\!
 Let the virus flow through you\!
-Fumus, don't fail me\!
+Fumus\, don\'t fail me\!
 There is\.\.\.
 NO ESCAPE\!
 Darken my shadow\!
@@ -147,8 +147,8 @@ The teleport attack has no effect\!
 (?# Doom)
 The demonic shield resists your attack\!
 
-(?# Tob)
-Wave\s+(.+)\s+\((.+)\)\s+complete!
+(?# ToB)
+Wave\s+(.+)\s+\((.+)\)\s+complete\!
 ^(.+?)\s+has advanced to Wave\s+(\d+)\.
 Xarpus begins to stare intently\.
 Xarpus is staring in your direction and retaliates with a powerful attack\!
