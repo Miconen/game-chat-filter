@@ -1,50 +1,50 @@
 (?# General)
 Welcome to Old School RuneScape\.
-I can\'t reach that\!
-You don\'t have enough inventory space\.
-You don\'t have enough inventory space to do that\.
-You don\'t have enough inventory space to hold that item\.
-You don\'t have enough free inventory space to do that\.
+I can't reach that!
+You don't have enough inventory space\.
+You don't have enough inventory space to do that\.
+You don't have enough inventory space to hold that item\.
+You don't have enough free inventory space to do that\.
 You have run out of prayer points, you can recharge at an altar\.
 Your inventory is too full to hold any more\.
-You don\'t have enough free space to do that\.
+You don't have enough free space to do that\.
 You cannot trade that item\.
 
 (?# Pets)
 Your follower is already close enough\.
-You don\'t have enough inventory space to pick up your follower\.
+You don't have enough inventory space to pick up your follower\.
 
 (?# Banking)
 You have correctly entered your PIN\.
 You have nothing to deposit\.
 You have nothing to collect\.
 Your pouch is empty\.
-You don\'t have enough doses in storage to withdraw that amount\.
+You don't have enough doses in storage to withdraw that amount\.
 The banker charges your (.+?) using (.+?)\.
 
 (?# Chatting)
-Attempting to join chat\-channel\.
-Now talking in chat\-channel
-To talk\, start each line of chat with the \/ symbol\.
-To talk in your clan\'s channel\, start each line of chat with \/\/ or \/c\.
-You haven\'t recieved any messages to which you can reply\.
+Attempting to join chat-channel\.
+Now talking in chat-channel
+To talk, start each line of chat with the / symbol\.
+To talk in your clan's channel, start each line of chat with // or /c\.
+You haven't recieved any messages to which you can reply\.
 You have left the channel\.
 Changes will take effect on your friends channel in the next 60 seconds\.
 
 (?# Raids)
 You leave the Tombs of Amascut\.
 You drink some of the tears\.
-You drink some of the potion\, reducing the energy cost of your special attacks\.
+You drink some of the potion, reducing the energy cost of your special attacks\.
 
 (?# Bloodwood Woodcutting)
-You weren\'t ready to chop\!
+You weren't ready to chop!
 That tree has almost bled out\.
-You can\'t hold your axe back for that long\.
-You can\'t pull your axe back that far\!
-You need to pull your axe back further\!
+You can't hold your axe back for that long\.
+You can't pull your axe back that far!
+You need to pull your axe back further!
 That tree is already wounded\.
-The wound on that tree doesn\'t need to be reopened yet\.
-You swung too hard and lost control of the axe\!
+The wound on that tree doesn't need to be reopened yet\.
+You swung too hard and lost control of the axe!
 
 (?# Sailing)
 The crystal extractor is now enabled\.
@@ -66,7 +66,7 @@ Your (.+?) has ([0-9]{1,3}(?:,[0-9]{3})+) charges (left|remaining)\.
 The herb sack is empty\.
 You have no grimy herbs in your inventory that can be stored in the sack\.
 The coal bag is empty\.
-The coal bag can be filled only with coal\. You haven\'t got any\.
+The coal bag can be filled only with coal\. You haven't got any\.
 The bag is empty\.
 You have nothing suitable for storing in the bag\.
 Your Slayer ring has worn out\.
@@ -78,15 +78,15 @@ Your venom resistance has worn off, but you are still resistant to poison\.
 Your chugging barrel has been filled with (\d+) doses? of (.+?)\((\d+)\)
 Deposited (\d+) doses? of (.+?)\((\d+)\)
 You must be near a bank to use that barrel\.
-You\'re cured from disease\.
+You're cured from disease\.
 You now feel capable of drinking another dose of surge potion
 Drinking this would have no effect\.
 Your saturated heart has regained its magical power\.
 The effects of the saturated heart have worn off\.
 
 (?# Statuses & Ailments)
-You have been poisoned by venom\!
-You have been poisoned\!
+You have been poisoned by venom!
+You have been poisoned!
 
 (?# Minigames)
 You cut a (.*?) into offcuts\.
@@ -106,53 +106,54 @@ spellbook activated\.
 Your mind fills with knowledge\.
 Your Death Charge has faded away\.
 You already have a Death Charge pending on you\.
-Upon the death of your next two foes\, some of your special attack energy will be restored\.
+Upon the death of your next two foes, some of your special attack energy will be restored\.
 Some of your special attack energy has been restored\.
 You resurrect a (.+?) thrall\.
 Your (.+?) thrall returns to the grave\.
 
 (?# Nex)
-AT LAST\!
-Fumus\!
-Umbra\!
-Cruor\!
-Glacies\!
-Fill my soul with smoke\!
-Let the virus flow through you\!
-Fumus\, don\'t fail me\!
+AT LAST!
+Fumus!
+Umbra!
+Cruor!
+Glacies!
+Fill my soul with smoke!
+Let the virus flow through you!
+Fumus, don't fail me!
 There is\.\.\.
-NO ESCAPE\!
-Darken my shadow\!
-Fear the shadow\!
-Umbra\, don\'t fail me\!
-Cruor\, don\'t fail me\!
-Glacies\, don\'t fail me\!
+NO ESCAPE!
+Darken my shadow!
+Fear the shadow!
+Umbra, don't fail me!
+Cruor, don't fail me!
+Glacies, don't fail me!
 
 (?# Nightmare)
-The Nightmare has awoken\!
+The Nightmare has awoken!
 That totem is already charged\.
-The Nightmare has impregnated you with a deadly parasite\!
+The Nightmare has impregnated you with a deadly parasite!
 The parasite within you has been weakened\.
-The Nightmare has cursed you\, shuffling your prayers\!
-You feel the effects of the Nightmare\'s curse wear off\.
-The Nightmare\'s spores have infected you\, making you feel drowsy\!
-The Nightmare\'s infection has worn off\.
+The Nightmare has cursed you, shuffling your prayers!
+You feel the effects of the Nightmare's curse wear off\.
+The Nightmare's spores have infected you, making you feel drowsy!
+The Nightmare's infection has worn off\.
 
 (?# CoX)
 You have no suitable food for the creature\.
-The Great Olm\'s left claw clenches to protect itself temporarily\.
-The Great Olm is currently protecting its left claw\!
-The teleport attack has no effect\!
+The Great Olm's left claw clenches to protect itself temporarily\.
+The Great Olm is currently protecting its left claw!
+The teleport attack has no effect!
 
 (?# Doom)
-The demonic shield resists your attack\!
+The demonic shield resists your attack!
+The demonic larva seems resistant to your attack\.
 
 (?# ToB)
-Wave\s+(.+)\s+\((.+)\)\s+complete\!
+Wave\s+(.+)\s+\((.+)\)\s+complete!
 ^(.+?)\s+has advanced to Wave\s+(\d+)\.
 Xarpus begins to stare intently\.
-Xarpus is staring in your direction and retaliates with a powerful attack\!
-The spell strikes to the heart of Verzik Vitur\'s shield\!
-Verzik Vitur is currently immune\!
+Xarpus is staring in your direction and retaliates with a powerful attack!
+The spell strikes to the heart of Verzik Vitur's shield!
+Verzik Vitur is currently immune!
 The power resonating here protects you from the blast\.
-Verzik Vitur saps your health and powers up\!
+Verzik Vitur saps your health and powers up!
