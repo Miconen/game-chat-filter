@@ -73,7 +73,8 @@ Your Slayer ring has worn out\.
 
 (?# Potions & Food)
 You eat the Araxyte venom sack, It grants you immunity from venom\.
-Your venom restistance has worn off, but you are still resistant to poison\.
+Your venom resistance is about to wear off\.
+Your venom resistance has worn off, but you are still resistant to poison\.
 Your chugging barrel has been filled with (\d+) doses? of (.+?)\((\d+)\)
 Deposited (\d+) doses? of (.+?)\((\d+)\)
 You must be near a bank to use that barrel\.
@@ -142,6 +143,9 @@ You have no suitable food for the creature\.
 The Great Olm\'s left claw clenches to protect itself temporarily\.
 The Great Olm is currently protecting its left claw\!
 The teleport attack has no effect\!
+
+(?# Doom)
+The demonic shield resists your attack\!
 
 (?# Tob)
 Wave\s+(.+)\s+\((.+)\)\s+complete!
