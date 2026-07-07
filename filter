@@ -8,6 +8,7 @@ You don\'t have enough free inventory space to do that\.
 You have run out of prayer points, you can recharge at an altar\.
 Your inventory is too full to hold any more\
 You don\'t have enough free space to do that\.
+You cannot trade that item\.
 
 (?# Pets)
 Your follower is already close enough\.
@@ -34,6 +35,16 @@ Changes will take effect on your friends channel in the next 60 seconds\.
 You leave the Tombs of Amascut\.
 You drink some of the tears\.
 You drink some of the potion\, reducing the energy cost of your special attacks\.
+
+(?# Bloodwood Woodcutting)
+You weren't ready to chop\!
+That tree has almost bled out\.
+You can\'t hold your axe back for that long\.
+You can\'t pull your axe back that far\!
+You need to pull your axe back further\!
+That tree is already wounded\.
+The wound on that tree doesn\'t need to be reopened yet\.
+You swung too hard and lost control of the axe\!
 
 (?# Sailing)
 The crystal extractor is now enabled\.
