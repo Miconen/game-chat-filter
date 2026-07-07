@@ -73,8 +73,7 @@ Your Slayer ring has worn out\.
 
 (?# Potions & Food)
 You eat the Araxyte venom sack, It grants you immunity from venom\.
-Your venom resistance is about to wear off\.
-Your venom resistance has worn off, but you are still resistant to poison\.
+Your (poison|venom) resistance (is about to wear|has worn) off.
 Your chugging barrel has been filled with (\d+) doses? of (.+?)\((\d+)\)
 Deposited (\d+) doses? of (.+?)\((\d+)\)
 You must be near a bank to use that barrel\.
